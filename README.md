@@ -47,11 +47,11 @@ Sou um profissional apaixonado por tecnologia, com sólida experiência em proje
 - Microsserviços & Mensageria
 - Bancos de Dados SQL e NoSQL
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rarjonas">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarjonas&layout=compact&theme=default"
     />
   </a>
-</p>
+</p> -->
